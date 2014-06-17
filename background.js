@@ -11,4 +11,4 @@ document.body.style.backgroundSize="100% auto";
 // background-attachment:fixed;
 
 // background-position:center; 
-//test
+//test2
